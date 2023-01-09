@@ -68,6 +68,7 @@ export class CatalogComponent {
       .subscribe(res => {
         this.devices.push(res);
         form.reset(); //per resettare il form dopo l'inserimento del valore
+        //Test per commit2
       }
       )
   }
