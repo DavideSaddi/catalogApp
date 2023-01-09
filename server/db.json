@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 2",
+      "price": 11122,
+      "id": 12
+    },
+    {
+      "label": "Samsung S11",
+      "price": 799,
+      "id": 13
+    },
+    {
+      "label": "dsduhadsaud",
+      "price": 36876237,
+      "id": 17
+    }
+  ],
+  "login": {
+    "token": 123
+  }
+}
